@@ -7,18 +7,18 @@
 html {
   scroll-behavior: smooth;
 }
-
+/* 
 .blurple {
-  color: #7289da;
-}
+  color: #f3c3e7;
+} */
 
 .bg-base {
-  background-color: #1a2634 !important;
+  background-color: #f1e3fe !important;
 }
 
 #backtotop {
   display: inline-block;
-  background-color: #7289da;
+  background-color: #b8008a ;
   width: 50px;
   height: 50px;
   text-align: center;
@@ -56,12 +56,12 @@ html {
 
 .navbar-item:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #b8008a  !important;
 }
 
 .navbar-link:hover {
   background-color: transparent !important;
-  color: #7289da !important;
+  color: #b8008a  !important;
 }
 
 .navbar-menu {
@@ -94,26 +94,26 @@ html {
 
 nav,
 .navbar-menu {
-  background-color: #1a2634 !important;
+  background-color: #fffbfe !important;
 }
 
 .navbar-item.nav-dark,
 .navbar-link.nav-dark {
-  color: #363636 !important;
+  color: black !important;
 }
 
 .navbar-item,
 .navbar-link {
-  color: white !important;
+  color:black  !important;
 }
 
 nav.nav-w {
-  background: #fff !important;
+  background: #f1e3fe !important;
   box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1) !important;
 }
 
 .nav-w {
-  background: #fff !important;
+  background:#f1e3fe !important;
   box-shadow: 100px 2px 10px rgba(0, 0, 0, 0.1) !important;
 }
 
@@ -166,7 +166,7 @@ nav.nav-w {
 }
 
 .line.blurple {
-  background: #7289da;
+  background: #f3c3e7;
 }
 
 .title.lined {
@@ -193,7 +193,7 @@ nav.nav-w {
 }
 
 .button.is-blurple {
-  background-color: #7289da;
+  background-color: #b8008a ;
   border-color: transparent;
   color: #fff;
 }
